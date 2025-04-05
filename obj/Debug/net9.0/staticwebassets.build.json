@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2+EtFz4ZxgCOgEwwbrpVEdRLm2IBReAQRnpw3oxF00I=",
+  "Hash": "hGPUcUuWXbbWT1kPnJNNOtQzsWWBkono6hPmq3LWWOc=",
   "Source": "NguyenThiTrucQuynh_buoi4",
   "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
   "Mode": "Default",
@@ -4133,6 +4133,27 @@
       "OriginalItemSpec": "wwwroot\\images\\download (1).jpg"
     },
     {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (10).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (10)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uchjdbodma",
+      "Integrity": "ntdQkLxA3a1ZA5beVomsJO7A3wRjy2bxPpYMUChxuaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (10).jpg"
+    },
+    {
       "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (2).jpg",
       "SourceId": "NguyenThiTrucQuynh_buoi4",
       "SourceType": "Discovered",
@@ -4173,6 +4194,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\download (3).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (4).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (4)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s5wzot8qj3",
+      "Integrity": "kDnvOUUUdzE5GJzYGbGyxvAfEdFBuwPMx/15WNJJ4Yk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (4).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (5).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (5)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gmxdp7dmmx",
+      "Integrity": "eHDs7enWrBIzSFAPtXyjW0s61e4KvbLE0xTmOOS6l5c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (5).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (6).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (6)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4tama3e8d8",
+      "Integrity": "yAmemHF2OaGsflPiATq7n0mORiM6KeBrEV/cwBiUdyc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (6).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (7).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (7)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32bhsn5w48",
+      "Integrity": "O/pFW+Dh28goxeF2y6r+QFdaVOiMujrnzzk02zEk9bI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (7).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (8).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (8)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0jdp1rulqf",
+      "Integrity": "vB0AEENpNBNAxKZ4G2FVLZ94O1ifcQHrPCYko2VXUy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (8).jpg"
+    },
+    {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (9).jpg",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/download (9)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qdagmdd8ru",
+      "Integrity": "cm0tvFSj+cbWobrTwF6ic3K47+hdIfqlKjhQK9/bYM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download (9).jpg"
     },
     {
       "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download.jpg",
@@ -4259,6 +4406,27 @@
       "OriginalItemSpec": "wwwroot\\images\\imgres.htm"
     },
     {
+      "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.avif",
+      "SourceId": "NguyenThiTrucQuynh_buoi4",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\",
+      "BasePath": "_content/NguyenThiTrucQuynh_buoi4",
+      "RelativePath": "images/shopping#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8nhy8kneza",
+      "Integrity": "LKpYM1gsYZLwp1YFewuIfaQxedWRhP7YrAptp3hyrec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shopping.avif"
+    },
+    {
       "Identity": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.webp",
       "SourceId": "NguyenThiTrucQuynh_buoi4",
       "SourceType": "Discovered",
@@ -4273,8 +4441,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "blc94r8tpj",
-      "Integrity": "/zcnjE0gg5dbB7esvIdsB7zCyGT8wobxwjFxDTNe8/4=",
+      "Fingerprint": "rcw2v80kor",
+      "Integrity": "S6+iceI2KL0rcl+BRy2MzCL+ZivUCwS5pr6QWf3oHuk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\shopping.webp"
@@ -14846,6 +15014,88 @@
       ]
     },
     {
+      "Route": "images/download (10).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (10).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntdQkLxA3a1ZA5beVomsJO7A3wRjy2bxPpYMUChxuaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntdQkLxA3a1ZA5beVomsJO7A3wRjy2bxPpYMUChxuaM="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (10).uchjdbodma.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (10).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntdQkLxA3a1ZA5beVomsJO7A3wRjy2bxPpYMUChxuaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uchjdbodma"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (10).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntdQkLxA3a1ZA5beVomsJO7A3wRjy2bxPpYMUChxuaM="
+        }
+      ]
+    },
+    {
       "Route": "images/download (2).jpg",
       "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (2).jpg",
       "Selectors": [],
@@ -14868,7 +15118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 08:19:58 GMT"
+          "Value": "Wed, 26 Mar 2025 06:46:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14905,7 +15155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 08:19:58 GMT"
+          "Value": "Wed, 26 Mar 2025 06:46:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15010,6 +15260,498 @@
       ]
     },
     {
+      "Route": "images/download (4).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (4).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDnvOUUUdzE5GJzYGbGyxvAfEdFBuwPMx/15WNJJ4Yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDnvOUUUdzE5GJzYGbGyxvAfEdFBuwPMx/15WNJJ4Yk="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (4).s5wzot8qj3.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (4).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kDnvOUUUdzE5GJzYGbGyxvAfEdFBuwPMx/15WNJJ4Yk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s5wzot8qj3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (4).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kDnvOUUUdzE5GJzYGbGyxvAfEdFBuwPMx/15WNJJ4Yk="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (5).gmxdp7dmmx.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (5).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eHDs7enWrBIzSFAPtXyjW0s61e4KvbLE0xTmOOS6l5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:50:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gmxdp7dmmx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (5).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eHDs7enWrBIzSFAPtXyjW0s61e4KvbLE0xTmOOS6l5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (5).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (5).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eHDs7enWrBIzSFAPtXyjW0s61e4KvbLE0xTmOOS6l5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:50:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eHDs7enWrBIzSFAPtXyjW0s61e4KvbLE0xTmOOS6l5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (6).4tama3e8d8.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (6).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAmemHF2OaGsflPiATq7n0mORiM6KeBrEV/cwBiUdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4tama3e8d8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (6).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAmemHF2OaGsflPiATq7n0mORiM6KeBrEV/cwBiUdyc="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (6).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (6).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAmemHF2OaGsflPiATq7n0mORiM6KeBrEV/cwBiUdyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAmemHF2OaGsflPiATq7n0mORiM6KeBrEV/cwBiUdyc="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (7).32bhsn5w48.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (7).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/pFW+Dh28goxeF2y6r+QFdaVOiMujrnzzk02zEk9bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32bhsn5w48"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (7).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/pFW+Dh28goxeF2y6r+QFdaVOiMujrnzzk02zEk9bI="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (7).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (7).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/pFW+Dh28goxeF2y6r+QFdaVOiMujrnzzk02zEk9bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/pFW+Dh28goxeF2y6r+QFdaVOiMujrnzzk02zEk9bI="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (8).0jdp1rulqf.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (8).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vB0AEENpNBNAxKZ4G2FVLZ94O1ifcQHrPCYko2VXUy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:53:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0jdp1rulqf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (8).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vB0AEENpNBNAxKZ4G2FVLZ94O1ifcQHrPCYko2VXUy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (8).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (8).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vB0AEENpNBNAxKZ4G2FVLZ94O1ifcQHrPCYko2VXUy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:53:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vB0AEENpNBNAxKZ4G2FVLZ94O1ifcQHrPCYko2VXUy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (9).jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (9).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cm0tvFSj+cbWobrTwF6ic3K47+hdIfqlKjhQK9/bYM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cm0tvFSj+cbWobrTwF6ic3K47+hdIfqlKjhQK9/bYM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/download (9).qdagmdd8ru.jpg",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (9).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cm0tvFSj+cbWobrTwF6ic3K47+hdIfqlKjhQK9/bYM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdagmdd8ru"
+        },
+        {
+          "Name": "label",
+          "Value": "images/download (9).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cm0tvFSj+cbWobrTwF6ic3K47+hdIfqlKjhQK9/bYM8="
+        }
+      ]
+    },
+    {
       "Route": "images/download.449kp69d0n.jpg",
       "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download.jpg",
       "Selectors": [],
@@ -15032,7 +15774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 08:18:01 GMT"
+          "Value": "Wed, 02 Apr 2025 07:43:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15122,7 +15864,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 08:18:01 GMT"
+          "Value": "Wed, 02 Apr 2025 07:43:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15770,8 +16512,8 @@
       ]
     },
     {
-      "Route": "images/shopping.blc94r8tpj.webp",
-      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.webp",
+      "Route": "images/shopping.8nhy8kneza.avif",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.avif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15780,19 +16522,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2604"
+          "Value": "1297"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/webp"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"/zcnjE0gg5dbB7esvIdsB7zCyGT8wobxwjFxDTNe8/4=\""
+          "Value": "\"LKpYM1gsYZLwp1YFewuIfaQxedWRhP7YrAptp3hyrec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 07:54:01 GMT"
+          "Value": "Wed, 02 Apr 2025 07:48:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15802,7 +16544,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "blc94r8tpj"
+          "Value": "8nhy8kneza"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shopping.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpYM1gsYZLwp1YFewuIfaQxedWRhP7YrAptp3hyrec="
+        }
+      ]
+    },
+    {
+      "Route": "images/shopping.avif",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKpYM1gsYZLwp1YFewuIfaQxedWRhP7YrAptp3hyrec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:48:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpYM1gsYZLwp1YFewuIfaQxedWRhP7YrAptp3hyrec="
+        }
+      ]
+    },
+    {
+      "Route": "images/shopping.rcw2v80kor.webp",
+      "AssetFile": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S6+iceI2KL0rcl+BRy2MzCL+ZivUCwS5pr6QWf3oHuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 07:55:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rcw2v80kor"
         },
         {
           "Name": "label",
@@ -15810,7 +16634,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/zcnjE0gg5dbB7esvIdsB7zCyGT8wobxwjFxDTNe8/4="
+          "Value": "sha256-S6+iceI2KL0rcl+BRy2MzCL+ZivUCwS5pr6QWf3oHuk="
         }
       ]
     },
@@ -15825,7 +16649,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2604"
+          "Value": "1840"
         },
         {
           "Name": "Content-Type",
@@ -15833,11 +16657,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/zcnjE0gg5dbB7esvIdsB7zCyGT8wobxwjFxDTNe8/4=\""
+          "Value": "\"S6+iceI2KL0rcl+BRy2MzCL+ZivUCwS5pr6QWf3oHuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 07:54:01 GMT"
+          "Value": "Wed, 02 Apr 2025 07:55:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15847,7 +16671,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/zcnjE0gg5dbB7esvIdsB7zCyGT8wobxwjFxDTNe8/4="
+          "Value": "sha256-S6+iceI2KL0rcl+BRy2MzCL+ZivUCwS5pr6QWf3oHuk="
         }
       ]
     },
@@ -36095,7 +36919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36148,7 +36972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36185,7 +37009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36232,7 +37056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36293,7 +37117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36338,7 +37162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36393,7 +37217,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36454,7 +37278,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36499,7 +37323,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36554,7 +37378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36607,7 +37431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36644,7 +37468,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 06:27:05 GMT"
+          "Value": "Sat, 22 Mar 2025 07:22:54 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -17,12 +17,40 @@
       "PackagePath": "staticwebassets\\images\\download (1).jpg"
     },
     {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (10).jpg",
+      "PackagePath": "staticwebassets\\images\\download (10).jpg"
+    },
+    {
       "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (2).jpg",
       "PackagePath": "staticwebassets\\images\\download (2).jpg"
     },
     {
       "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (3).jpg",
       "PackagePath": "staticwebassets\\images\\download (3).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (4).jpg",
+      "PackagePath": "staticwebassets\\images\\download (4).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (5).jpg",
+      "PackagePath": "staticwebassets\\images\\download (5).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (6).jpg",
+      "PackagePath": "staticwebassets\\images\\download (6).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (7).jpg",
+      "PackagePath": "staticwebassets\\images\\download (7).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (8).jpg",
+      "PackagePath": "staticwebassets\\images\\download (8).jpg"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download (9).jpg",
+      "PackagePath": "staticwebassets\\images\\download (9).jpg"
     },
     {
       "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\download.jpg",
@@ -39,6 +67,10 @@
     {
       "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\imgres.htm",
       "PackagePath": "staticwebassets\\images\\imgres.htm"
+    },
+    {
+      "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.avif",
+      "PackagePath": "staticwebassets\\images\\shopping.avif"
     },
     {
       "Id": "E:\\Lập trình web\\NguyenThiTrucQuynh_buoi4\\wwwroot\\images\\shopping.webp",

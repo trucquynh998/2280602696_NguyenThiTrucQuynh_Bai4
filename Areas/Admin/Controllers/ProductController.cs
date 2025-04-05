@@ -7,7 +7,7 @@ using NguyenThiTrucQuynh_buoi4.Repositories;
 namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IProductRepository _productRepository;
@@ -17,7 +17,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
             _productRepository = productRepository;
             _categoryRepository = categoryRepository;
         }
-
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Customer + "," + SD.Role_Employee)]
         // Hiển thị danh sách sản phẩm
         public async Task<IActionResult> Index()
         {
@@ -25,8 +25,11 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
             return View(products);
         }
         // Hiển thị form thêm sản phẩm mới
+        
+        [Authorize(Roles = SD.Role_Admin+ "," + SD.Role_Employee)]
         public async Task<IActionResult> Add()
         {
+
             var categories = await _categoryRepository.GetAllAsync();
             ViewBag.Categories = new SelectList(categories, "Id", "Name");
             return View();
@@ -44,6 +47,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
         }
 
         // Xử lý thêm sản phẩm mới
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee)]
         [HttpPost]
         public async Task<IActionResult> Add(Product product, IFormFile imageUrl)
         {
@@ -65,6 +69,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
 
 
         // Hiển thị thông tin chi tiết sản phẩm
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Customer + "," + SD.Role_Employee)]
         public async Task<IActionResult> Display(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -76,6 +81,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
         }
 
         // Hiển thị form cập nhật sản phẩm
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee)]
         public async Task<IActionResult> Update(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -90,6 +96,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
         }
 
         // Xử lý cập nhật sản phẩm
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee)]
         [HttpPost]
         public async Task<IActionResult> Update(int id, Product product, IFormFile imageUrl)
         {
@@ -129,6 +136,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
 
 
         // Hiển thị form xác nhận xóa sản phẩm
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee)]
         public async Task<IActionResult> Delete(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -141,6 +149,7 @@ namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
         //Hàm xử lý xóa
 
         // Xử lý xóa sản phẩm
+        [Authorize(Roles = SD.Role_Admin + "," + SD.Role_Employee)]
         [HttpPost, ActionName("DeleteConfirmed")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

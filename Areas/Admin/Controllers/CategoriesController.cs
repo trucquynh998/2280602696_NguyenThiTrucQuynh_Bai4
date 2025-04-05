@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using NguyenThiTrucQuynh_buoi4.Models;
 using NguyenThiTrucQuynh_buoi4.Repositories;
 
-namespace NguyenThiTrucQuynh_buoi4.Controllers
+namespace NguyenThiTrucQuynh_buoi4.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoriesController : Controller
     {
 

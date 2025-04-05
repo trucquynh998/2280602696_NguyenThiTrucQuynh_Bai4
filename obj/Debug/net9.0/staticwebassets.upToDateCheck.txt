@@ -65,12 +65,20 @@ E:\Lập trình web\NguyenThiTrucQuynh_buoi4\wwwroot\lib\bootstrap\dist\css\boot
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\download (1).jpg
+wwwroot\images\download (10).jpg
 wwwroot\images\download (2).jpg
 wwwroot\images\download (3).jpg
+wwwroot\images\download (4).jpg
+wwwroot\images\download (5).jpg
+wwwroot\images\download (6).jpg
+wwwroot\images\download (7).jpg
+wwwroot\images\download (8).jpg
+wwwroot\images\download (9).jpg
 wwwroot\images\download.jpg
 wwwroot\images\download.webp
 wwwroot\images\imgres (1).htm
 wwwroot\images\imgres.htm
+wwwroot\images\shopping.avif
 wwwroot\images\shopping.webp
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
